@@ -1,0 +1,6 @@
+{
+  "name": "MechaniseConnect",
+  "description": "Agricultural mechanisation platform in Assakio, Nasarawa State, Nigeria connecting smallholder farmers with machinery operators through farmer clustering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
